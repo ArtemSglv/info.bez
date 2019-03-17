@@ -1,0 +1,11 @@
+/Users/artem_sglv/info.bez/lab2/obj/Debug/netcoreapp2.2/lab2.csprojAssemblyReference.cache
+/Users/artem_sglv/info.bez/lab2/obj/Debug/netcoreapp2.2/lab2.csproj.CoreCompileInputs.cache
+/Users/artem_sglv/info.bez/lab2/obj/Debug/netcoreapp2.2/lab2.AssemblyInfoInputs.cache
+/Users/artem_sglv/info.bez/lab2/obj/Debug/netcoreapp2.2/lab2.AssemblyInfo.cs
+/Users/artem_sglv/info.bez/lab2/bin/Debug/netcoreapp2.2/lab2.deps.json
+/Users/artem_sglv/info.bez/lab2/bin/Debug/netcoreapp2.2/lab2.runtimeconfig.json
+/Users/artem_sglv/info.bez/lab2/bin/Debug/netcoreapp2.2/lab2.runtimeconfig.dev.json
+/Users/artem_sglv/info.bez/lab2/bin/Debug/netcoreapp2.2/lab2.dll
+/Users/artem_sglv/info.bez/lab2/bin/Debug/netcoreapp2.2/lab2.pdb
+/Users/artem_sglv/info.bez/lab2/obj/Debug/netcoreapp2.2/lab2.dll
+/Users/artem_sglv/info.bez/lab2/obj/Debug/netcoreapp2.2/lab2.pdb
